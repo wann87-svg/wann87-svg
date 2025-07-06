@@ -34,7 +34,7 @@ CashFlow: Aplikasi Pengelola Keuangan Pribadi
 
 Sebuah aplikasi web front-end sederhana namun fungsional untuk melacak pemasukan dan pengeluaran harian. Dilengkapi dengan fitur pilihan mata uang, pencatatan waktu transaksi, dan ekspor riwayat ke CSV. Proyek ini membantu saya memperdalam pemahaman tentang manipulasi DOM dan pengelolaan data sederhana di JavaScript.
 
-Lihat Kode | Demo Langsung
+https://github.com/wann87-svg/CashFlow-app.git
 
 Teknologi: HTML, CSS, JavaScript
 
@@ -43,4 +43,4 @@ Saya selalu terbuka untuk belajar hal baru, berkolaborasi dalam proyek menarik, 
 
 Email: awanpu760@gmail.com
 
-Portofolio Saya: https://[username-github-anda].github.io/ (Ini jika Anda membuat situs portofolio terpisah)
+Portofolio Saya: https://finansa-money.netlify.app/
