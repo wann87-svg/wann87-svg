@@ -43,4 +43,4 @@ Saya selalu terbuka untuk belajar hal baru, berkolaborasi dalam proyek menarik, 
 
 Email: awanpu760@gmail.com
 
-Portofolio Saya: https://finansa-money.netlify.app
+Portofolio Saya: cash-floww.netlify.app
