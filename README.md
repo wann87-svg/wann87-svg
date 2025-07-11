@@ -43,4 +43,3 @@ Saya selalu terbuka untuk belajar hal baru, berkolaborasi dalam proyek menarik, 
 
 Email: awanpu760@gmail.com
 
-Portofolio Saya: https://cash-floww.netlify.app
